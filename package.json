@@ -1,0 +1,21 @@
+{
+  "name": "choose-your-own-angular-api-mashup",
+  "version": "1.0.0",
+  "description": "Your goal is to build an API \"Mashup\", or \"rapid prototype\", using Angular and your choice of public APIs.",
+  "main": "scripts/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natapoli90/choose-your-own-angular-api-mashup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natapoli90/choose-your-own-angular-api-mashup/issues"
+  },
+  "homepage": "https://github.com/natapoli90/choose-your-own-angular-api-mashup#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}

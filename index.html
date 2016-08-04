@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"> <!-- this should have an ng-app -->
+<html lang="en" ng-app="MusicExplorer">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,7 +24,7 @@
   <body>
     <div class="container-fluid">
       <div class='row'>
-        <div class="col-md-6"><h1>We're in good shape.</h1></div>
+        <div ng-view></div>
       </div>
     </div>
   </body>
